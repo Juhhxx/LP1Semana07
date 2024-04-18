@@ -1,3 +1,5 @@
+using System;
+
 namespace GameUnits
 {
     public abstract class Unit
@@ -13,7 +15,7 @@ namespace GameUnits
         }
         public void Move()
         {
-            Console.WriteLine(mov)
+            Console.WriteLine(movement);
         }
         
     }

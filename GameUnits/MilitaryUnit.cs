@@ -6,11 +6,11 @@ namespace GameUnits
         public int XP { get; private set; }
         public override int Health 
         {
-            get => Health;
+            get => base.Health + XP;
 
             set 
             {
-                base.Health += XP;
+                base.Health = value;
             }
         }
         public override float Cost

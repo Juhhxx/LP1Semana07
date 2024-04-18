@@ -8,6 +8,7 @@ classDiagram
     Weapon <|-- Sword
     Character <|-- Player
     Character <|-- Enemy
+    
     class Weapon{
         #power: float
     }
