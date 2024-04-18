@@ -15,6 +15,7 @@ namespace GameUnits
                 u.Move();
                 Console.WriteLine(u.Health);
                 Console.WriteLine(u.Cost);
+                Console.WriteLine(u.ToString());
             }
             
         }

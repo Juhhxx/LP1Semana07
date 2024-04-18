@@ -10,7 +10,7 @@ classDiagram
     Character <|-- Enemy
     
     class Weapon{
-        #power: float
+        #power : float
     }
     class Gun{
         +Ammo : int
