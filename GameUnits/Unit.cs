@@ -13,7 +13,8 @@ namespace GameUnits
         }
         public void Move()
         {
-            Console.WriteLine(mov);
+            Console.WriteLine(mov)
         }
+        
     }
 }
