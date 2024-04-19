@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassVsStruct", "ClassVsStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructWithRef", "StructWithRef\StructWithRef.csproj", "{652811B8-9C6D-4A9C-878A-73AB16C150FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{68A86509-D16C-4C2E-AA9F-95C3E5433E2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{652811B8-9C6D-4A9C-878A-73AB16C150FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{652811B8-9C6D-4A9C-878A-73AB16C150FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{652811B8-9C6D-4A9C-878A-73AB16C150FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A86509-D16C-4C2E-AA9F-95C3E5433E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A86509-D16C-4C2E-AA9F-95C3E5433E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A86509-D16C-4C2E-AA9F-95C3E5433E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A86509-D16C-4C2E-AA9F-95C3E5433E2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
